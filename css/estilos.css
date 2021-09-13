@@ -1,0 +1,42 @@
+.completo{
+    background: #F28123;
+    margin-bottom: 20px;
+}
+.titulo {
+    background: #F0BA19;
+    color:#fff;
+    padding: 20px 0;
+}
+
+.titulo .tamaño{
+    font-size:80px;
+    font-family: 'Times';
+    text-align: center;
+}
+
+.main{
+    background: #243742;
+    color: #fff;
+    height: 400px;
+    width: 400px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.post{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.post .dato{
+    font-size:20px;
+    font-family: 'Times';
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.post .contenedor-botones{
+    margin-left: 150px;
+}
